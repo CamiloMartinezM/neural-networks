@@ -1,5 +1,3 @@
-# neural-networks
-From scratch implementations of neural networks and materials from the Coursera Specializations "Deep Learning" and "Deep Learning Tensorflow Developer", by DeepLearning.AI 
-
-## License
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. All credits attributed to [DeepLearning.AI](https://www.deeplearning.ai/) and their courses on [Deep Learning](https://www.coursera.org/programs/universidad-de-los-andes-for-coursera-gr9qm/specializations/deep-learning?authProvider=coursera4delosandes) and [TensorFlow Development](https://www.coursera.org/programs/universidad-de-los-andes-for-coursera-gr9qm/professional-certificates/tensorflow-in-practice?authProvider=coursera4delosandes).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff63ab688d27ce12e9c380ba9e2276c42070fdf837072f525374c934895afa30
+size 712
